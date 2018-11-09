@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         BackgroundLibrary.inject(this);
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        //22 test
     }
 }
